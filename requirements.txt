@@ -1,0 +1,8 @@
+# requirements.txt
+
+streamlit
+torch
+diffusers
+transformers
+accelerate
+pillow
