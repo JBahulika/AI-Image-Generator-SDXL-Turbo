@@ -8,7 +8,7 @@ A high-performance text-to-image generator using the **SDXL-Turbo** model, featu
 
  live app here:
 
-[![Streamlit App](https://jbahulika-ai-image-generator-sdxl-turbo-app-jufxmf.streamlit.app)
+(https://jbahulika-ai-image-generator-sdxl-turbo-app-jufxmf.streamlit.app)
 
 
 ---
